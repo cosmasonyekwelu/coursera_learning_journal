@@ -1,17 +1,15 @@
 # Week 1: Introduction to Web3 & Blockchain
 
 **Date Started:** 17/10/2025
-**Time Invested:** [Track your hours here]  
-**Status:** 🔄 In Progress
 
 ## 🎯 Week 1 Overview
 
 This week introduces the fundamental concepts of Web3 and blockchain technology, exploring the evolution from centralized to decentralized systems and the core principles that make blockchain transformative.
 
-- **Web3** = decentralized network + digitized assets + new business models  
-- **Blockchain** serves as the foundation of Web3  
-- Web3 integrates AI, IoT, AR/VR to support richer applications  
-- A shift from large, central intermediaries toward distributed coordination 
+- **Web3** = decentralized network + digitized assets + new business models
+- **Blockchain** serves as the foundation of Web3
+- Web3 integrates AI, IoT, AR/VR to support richer applications
+- A shift from large, central intermediaries toward distributed coordination
 
 ## 📖 Learning Objectives
 

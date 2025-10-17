@@ -1,10 +1,7 @@
 # Blockchain Core Concepts
 
 **Interactive Demos:** [Anders Brownworth Blockchain Demo](https://andersbrownworth.com/blockchain/)  
-**Supplemental Reading:** [Blockchain Demo (Optional)](https://www.coursera.org/learn/web3-blockchain-fundamentals/supplement/z1peo/blockchain-demo-optional)  
-**Date Studied:** $(date +%Y-%m-%d)  
-**Status:** ✅ Completed  
-**Prerequisites:** Chapters 1-3 - Web3, Digital Assets, Bitcoin Transactions
+**Supplemental Reading:** [Blockchain Demo (Optional)](https://www.coursera.org/learn/web3-blockchain-fundamentals/supplement/z1peo/blockchain-demo-optional)
 
 ## 🎯 Chapter Overview
 
